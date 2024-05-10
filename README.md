@@ -1,7 +1,7 @@
 <h1 align="center">WELCOME to my github i'm kamanzi serge</h1>
 <h3 align="center">A passionate software engineer and Cloud engineer from Rwanda</h3>
 
-- 📫 How to reach me **sergekmz187@gmail.com**
+- 📫**sergekmz187@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
