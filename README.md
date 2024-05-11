@@ -1,4 +1,4 @@
-<h1 align="center">WELCOME to my github i'm kamanzi serge</h1>
+<h1 align="center">WELCOME to my Github  <br> i'm kamanzi serge</h1>
 <h3 align="center">A passionate software engineer and Cloud engineer from Rwanda</h3>
 
 - 📫**sergekmz187@gmail.com**
