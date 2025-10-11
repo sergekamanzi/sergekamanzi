@@ -18,4 +18,6 @@
 
 #### 📊 GitHub Stats
 ![serge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergekamanzi&show_icons=true&theme=radical)
+#### 📊 GitHub Total Contribution
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergekamanzi&theme=radical)
 
