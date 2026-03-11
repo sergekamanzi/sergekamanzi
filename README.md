@@ -1,4 +1,4 @@
-# 💫 I'm not Black, I'm SK
+# 💫 Tables turn, bridges burn, you live and learn
 <br>I’m a Machine Learning Engineer and Full-Stack Engineer with a strong foundation in AWS cloud architecture. I enjoy building end-to-end systems from scalable backend services and intuitive frontends to production-ready ML models. I’m passionate about turning complex problems into efficient, reliable, and impactful solutions.<br>
 
 
